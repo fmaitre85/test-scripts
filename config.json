@@ -1,0 +1,6 @@
+{
+	"ImageId": "ami-0d3cd60f42ff425f3",
+	"InstanceType": "c3.large",
+	"KeyName": "pyb-keypair",
+	"SecurityGroupIds": ["sg-05e7ac3e030c16259"]
+}
